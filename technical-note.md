@@ -43,5 +43,3 @@ Plotted forecasts were then summed to form cumulative totals for one year, 18 mo
 11. [https://www.hesa.ac.uk/data-and-analysis/staff/table-6](https://www.hesa.ac.uk/data-and-analysis/staff/table-6)
 12. [https://www.hesa.ac.uk/data-and-analysis/staff/table-1](https://www.hesa.ac.uk/data-and-analysis/staff/table-1); [https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/august2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/august2020)
 13. [https://www.hesa.ac.uk/data-and-analysis/finances/table-1](https://www.hesa.ac.uk/data-and-analysis/finances/table-1)
-
-[^1]:	Hyndman, R.J., & Athanasopoulos, G. (2021) _Forecasting: principles and practice_, 3rd edition, OTexts: Melbourne, Australia. OTexts.com/fpp3. Accessed 5 May 2021.

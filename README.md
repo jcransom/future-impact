@@ -7,4 +7,4 @@ Created by James Ransom, Head of Research at the National Centre for Entrepreneu
 
 Email: james.ransom.16@ucl.ac.uk
 
-Website: http://ransomjc.wordpress.com
+Website: https://jcransom.com

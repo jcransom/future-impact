@@ -7,6 +7,6 @@ To accompany the Universities UK report (2021): https://www.universitiesuk.ac.uk
 
 Created by James Ransom, Head of Research at the National Centre for Entrepreneurship in Education.
 
-Email: james.ransom.16@ucl.ac.uk
+Email: james.ransom@ncee.org.uk
 
 Website: https://jcransom.com
